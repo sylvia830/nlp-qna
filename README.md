@@ -3,6 +3,6 @@ This is a question answering web app based on Natural Language Processing(NLP) w
             will give answers to the question asked by the user based on the text and score the answers based on
             accuracy.
 
-To view the website: https://sylvia830.github.io/nlp-qna/
+
 
 To watch the demo: https://youtu.be/oOzaQVZ676I
